@@ -1,11 +1,11 @@
-# soyo-client
-This repository has template to Soyo's client
-Soyo is owned CMS to manage blog written with markdown
+# tayori-client
+This repository has template to Tayori's client
+Tayori is owned CMS to manage blog written with markdown
 
 ## Environment variable
-`soyo-client` is needed to set some environment variables to `.env`
+`tayori-client` is needed to set some environment variables to `.env`
 
-#### SOYO_ORIGIN
+#### TAYORI_ORIGIN
 Please set origin like `http://localhost:3000`
 
 #### NEXT_PUBLIC_MIDDLE_COMPONENT_PATH
